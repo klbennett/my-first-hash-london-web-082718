@@ -1,5 +1,5 @@
 def my_hash
-bob = {"first_value" = "first", "second_value" = "second"}
+bob = {"first_value" => "first", "second_value" => "second"}
   
 end
 
